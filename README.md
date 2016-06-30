@@ -19,6 +19,6 @@ no local)
 
 – Abrir o prompt de comando
 
-– Ir ao diretório do Cliente
+– Ir ao diretório do Cliente(UrnaEletronica\dist)
 
 – Executar o comando: java –jar Cliente.jar
